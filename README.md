@@ -28,8 +28,10 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 <p>
   <a href="www.youtube.com/@hokvok1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/youssef-ali-2a1571294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/HOKVOK" target="_blank"><img src="https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:moha401401@gmail.com" target="_blank"> <img src=https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241  width="28"/></a>
+  
 </p>
 
 </p>
